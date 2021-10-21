@@ -6,6 +6,7 @@ public class Principal {
 		// TODO Esbozo de método generado automáticamente
 
 		System.out.println("Hola Mundo ");
+		System.out.println(" Hi world ");
 	}
 
 }
