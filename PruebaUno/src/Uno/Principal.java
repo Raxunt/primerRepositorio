@@ -7,7 +7,7 @@ public class Principal {
 
 		System.out.println("Hola Mundo ");
 		System.out.println(" Hi world ");
-		System.out.println("Hola Mundo ");
+		System.out.println("Hola Mundo "); //lkkk
 	}
 
 }
